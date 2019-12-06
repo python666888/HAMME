@@ -1,2 +1,0 @@
-# HAMMER
-this is test 
